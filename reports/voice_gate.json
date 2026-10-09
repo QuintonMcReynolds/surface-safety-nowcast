@@ -1,0 +1,26 @@
+{
+ "authorised_entries": 212,
+ "hours": 5.998321666651302,
+ "entries_per_hour": 35.34321961735569,
+ "no_voice_false_alerts_per_hour": 35.34321961735569,
+ "whisper-small/uwb_test": {
+  "joint_parse_accuracy": 0.1323529411764706,
+  "n_transmissions": 204,
+  "false_alerts_per_hour": 30.665440550352734
+ },
+ "whisper-small/atco2": {
+  "joint_parse_accuracy": 0.2490272373540856,
+  "n_transmissions": 257,
+  "false_alerts_per_hour": 26.541795276846884
+ },
+ "whisper-small-atc-lora/uwb_test": {
+  "joint_parse_accuracy": 0.4950980392156863,
+  "n_transmissions": 204,
+  "false_alerts_per_hour": 17.844860885233512
+ },
+ "whisper-small-atc-lora/atco2": {
+  "joint_parse_accuracy": 0.3735408560311284,
+  "n_transmissions": 257,
+  "false_alerts_per_hour": 22.141083106592475
+ }
+}

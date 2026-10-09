@@ -1,0 +1,8 @@
+.venv/
+data/
+models/
+logs/
+__pycache__/
+reports/*.csv
+reports/*_prev.json
+.DS_Store

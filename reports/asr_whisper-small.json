@@ -1,0 +1,84 @@
+{
+ "uwb_test": {
+  "n": 600,
+  "hours": 0.5111097693443298,
+  "wer": 0.9892511644571838,
+  "slots": {
+   "callsign": {
+    "n": 277,
+    "recall": 0.05054151624548736
+   },
+   "runway": {
+    "n": 186,
+    "recall": 0.4032258064516129
+   },
+   "hold_short": {
+    "n": 13,
+    "recall": 0.38461538461538464
+   },
+   "line_up": {
+    "n": 70,
+    "recall": 0.42857142857142855
+   },
+   "cleared_takeoff": {
+    "n": 46,
+    "recall": 0.32608695652173914
+   },
+   "cleared_land": {
+    "n": 17,
+    "recall": 0.0
+   },
+   "via": {
+    "n": 16,
+    "recall": 0.25
+   }
+  },
+  "spurious_command_rate": 0.0
+ },
+ "atco2": {
+  "n": 866,
+  "hours": 0.9867416620254517,
+  "wer": 0.5974302089110741,
+  "slots": {
+   "callsign": {
+    "n": 215,
+    "recall": 0.046511627906976744
+   },
+   "runway": {
+    "n": 224,
+    "recall": 0.5848214285714286
+   },
+   "hold_short": {
+    "n": 25,
+    "recall": 0.44
+   },
+   "cross": {
+    "n": 16,
+    "recall": 0.625
+   },
+   "line_up": {
+    "n": 27,
+    "recall": 0.3333333333333333
+   },
+   "cleared_takeoff": {
+    "n": 24,
+    "recall": 0.25
+   },
+   "cleared_land": {
+    "n": 74,
+    "recall": 0.22972972972972974
+   },
+   "via": {
+    "n": 36,
+    "recall": 0.3611111111111111
+   }
+  },
+  "spurious_command_rate": 0.0
+ },
+ "latency": {
+  "p50_s": 2.4590803955006777,
+  "p95_s": 3.0966971083503267,
+  "median_audio_s": 3.5649999380111694,
+  "device": "cpu"
+ }
+}

@@ -1,0 +1,14 @@
+numpy==2.5.3
+pandas==3.0.6
+scipy==1.18.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+pyarrow==25.0.1
+requests==2.34.2
+networkx==3.7
+jiwer==4.0.0
+soundfile==0.14.0
+torch==2.14.1
+transformers==5.19.0
+peft==0.21.2
+huggingface_hub==1.33.0
